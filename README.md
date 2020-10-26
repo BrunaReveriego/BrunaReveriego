@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-<div style="align:center">
+
 ![ BrunaReveriego GitHub Stats ](https://github-readme-stats.vercel.app/api?username=BrunaReveriego&show_icons=true)
-</div>
 
 <!--
 **BrunaReveriego/BrunaReveriego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

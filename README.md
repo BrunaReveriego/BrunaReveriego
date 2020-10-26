@@ -2,7 +2,7 @@
 
 
 <div style="align:center">
-![BrunaReveriego GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunaReveriego&show_icons=true)
+![ BrunaReveriego GitHub Stats ](https://github-readme-stats.vercel.app/api?username=BrunaReveriego&show_icons=true)
 </div>
 
 <!--

@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+![alt text](https://i.imgur.com/HeR3pNP.gif)
 
 ![ BrunaReveriego GitHub Stats ](https://github-readme-stats.vercel.app/api?username=BrunaReveriego&show_icons=true)
 
